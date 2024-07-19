@@ -1,8 +1,7 @@
 streamlit
 pandas
 numpy
-matplotlib
-date
-yfinance
 tensorflow
-keras
+matplotlib
+yfinance
+scikit-learn
